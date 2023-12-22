@@ -11,5 +11,6 @@ public class Dashboard
         System.out.println("Enter the Password");
         System.out.println("Click on login button");
         System.out.println("Click on dashboard button");
+        System.out.println("Click on AQI button");
     }
 }
